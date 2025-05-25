@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pillow
+pytesseract
+openai
+python-dotenv
+fpdf
